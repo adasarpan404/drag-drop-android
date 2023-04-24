@@ -1,5 +1,5 @@
 # drag-drop-android
-Here is a blog about it: <a href="https://adasarpan.hashnode.dev/how-to-implement-drag-and-drop-feature-in-android" target="_blank">Drag and Drop blog</a>
+Here is a blog about it: <a href="https://adasarpan.hashnode.dev/how-to-implement-drag-and-drop-feature-in-android" target="_blank">Drag and Drop blog</a><br/>
 
 I have built a sample drag drop app for practice in android
 
